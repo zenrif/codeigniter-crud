@@ -1,11 +1,10 @@
 # Tampilan Aplikasi CRUD CodeIgniter 4 Framework
 
 ## Halaman Utama
+![screencapture-localhost-8080-mahasiswa-2021-11-16-15_28_05](https://user-images.githubusercontent.com/92130191/141949116-557278b0-3838-4705-8da5-a7300b040486.png)
 
-![screencapture-localhost-8080-mahasiswa-2021-11-16-14_56_05](https://user-images.githubusercontent.com/92130191/141945810-3d63af0e-446d-43e2-8a27-a9f49daffd51.png)
 
 ## Halaman Tambah Data
-
 ![screencapture-localhost-8080-mahasiswa-create-2021-11-16-15_00_47](https://user-images.githubusercontent.com/92130191/141945814-b2adc1fe-4402-46c3-89e0-7d206e8af0c6.png)
 
 ## Halaman Ubah Data
