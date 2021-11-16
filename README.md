@@ -1,4 +1,4 @@
-# Tampilan Aplikasi CRUD CodeIgniter 4 Framework
+# Tampilan Aplikasi CRUD Framework CodeIgniter 4
 
 ## Halaman Utama
 ![screencapture-localhost-8080-mahasiswa-2021-11-16-15_28_05](https://user-images.githubusercontent.com/92130191/141949116-557278b0-3838-4705-8da5-a7300b040486.png)
